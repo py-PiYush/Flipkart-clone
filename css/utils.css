@@ -18,3 +18,13 @@
     color: grey;
     font-weight: bolder;
 }
+.my-1{
+    margin: 5px 0px;
+}
+.my-2{
+    margin: 26px 0;
+}
+
+.text-center{
+    text-align: center;
+}

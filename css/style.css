@@ -61,9 +61,30 @@ nav ul li a:hover{
 
 }
 .slider{
-    margin: auto;
     width: 80vw;
     margin: 20px auto;
+    overflow: hidden;
+}
+.card{
+    background-color: whitesmoke;
+    max-width: 90vw;
+    margin: 37px auto;
+    
+
+}
+.card h2{
+    margin: 12px 0px;
+}
+.cards{
+    display: flex; 
+    overflow: hidden;
+}
+.card-item{
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px 15px;
 }
 
 footer{
